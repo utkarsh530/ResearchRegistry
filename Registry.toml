@@ -1,0 +1,6 @@
+name = "ResearchRegistry"
+uuid = "2b5fcb42-ad96-483f-a814-60c1b0d40326"
+repo = "git@github.com:utkarsh530/ResearchRegistry.git"
+description = "Utkarsh's registry for research projects"
+
+[packages]
