@@ -1,0 +1,3 @@
+name = "MixedPrecisionDiffEq"
+uuid = "eb08dc35-7f24-4c65-bdef-909691b8f15f"
+repo = "git@github.com:utkarsh530/MixedPrecisionDiffEq.jl.git"

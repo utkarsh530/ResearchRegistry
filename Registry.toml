@@ -4,3 +4,4 @@ repo = "git@github.com:utkarsh530/ResearchRegistry.git"
 description = "Utkarsh's registry for research projects"
 
 [packages]
+eb08dc35-7f24-4c65-bdef-909691b8f15f = { name = "MixedPrecisionDiffEq", path = "M/MixedPrecisionDiffEq" }
